@@ -33,3 +33,6 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/StopWatch.git
+
+![image](https://github.com/user-attachments/assets/90d40d1b-2814-4f03-b20b-9e451ff21c74)
+
